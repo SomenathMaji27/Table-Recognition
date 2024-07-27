@@ -1,0 +1,33 @@
+isauvola
+
+avgh
+    - histogram
+    - stuff
+    - return avgh
+
+get components
+    - bigboundingbox
+        - get RLSA
+        - edgeDetect
+        - getBoundingBoxes
+        -return big getBoundingBoxes
+
+    - sub boundingboxes
+        - hrlsa
+        - edgeDetect
+        - getBoundingBoxes
+        - return
+    
+    - combine big and sub boxes to make components
+    - return
+
+make sets
+    - take components
+    - process them one by one and make sets
+
+make lattice
+    - parallelize (trimming) the boxes in set and find median, make lattice
+
+do stuff and tell which boundingboxes have table
+
+

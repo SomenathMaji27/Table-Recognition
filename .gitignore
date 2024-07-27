@@ -1,0 +1,14 @@
+# ignore sample images directory
+sample\ images
+
+# ignore vscode directory
+.vscode
+
+# output files
+*.out
+*.o
+*.exe
+
+# image files
+*.pbm
+*.pgm
