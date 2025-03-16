@@ -28,6 +28,6 @@ make sets
 make lattice
     - parallelize (trimming) the boxes in set and find median, make lattice
 
-do stuff and tell which boundingboxes have table
+Tell which boundingboxes have table
 
 
